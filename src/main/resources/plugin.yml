@@ -1,0 +1,7 @@
+name: SpawnControl
+version: '${project.version}'
+main: com.gmail.trainraider7.spawncontrol.SpawnControl
+api-version: 1.18
+authors: [ Trainraider ]
+description: Configure allowed spawning entities and spawn reasons
+website: https://reddit.com/u/trainraider
